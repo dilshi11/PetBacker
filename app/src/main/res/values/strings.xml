@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PetBacker</string>
+    <string name="you_don_t_have_account_signup">link</string>
+    <string name="you_already_have_account_login">signupLink</string>
+</resources>
